@@ -326,4 +326,5 @@ Test CFG FOR 0 ∪ 10(000)*
 }
 Start symbol: S5
 
+Used ChatGPT with prompt "Help me understand the structure of this program and how I should approach the problem"
 
